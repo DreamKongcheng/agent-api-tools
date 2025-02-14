@@ -1,0 +1,3 @@
+[submodule "firecrawl-api/firecrawl"]
+	path = firecrawl-api/firecrawl
+	url = git@github.com:DreamKongcheng/MyFireCrawl.git
